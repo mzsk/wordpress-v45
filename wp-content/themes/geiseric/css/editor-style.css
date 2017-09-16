@@ -1,0 +1,3 @@
+/* Import child themes styles. */
+@import "../lib/assets/css/base.css";
+@import "../style.css";

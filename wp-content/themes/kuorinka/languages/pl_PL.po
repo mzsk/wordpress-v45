@@ -1,0 +1,428 @@
+# Copyright (C) 2015 Sami Keijonen
+# This file is distributed under the GNU General Public License v2 or later.
+# Translators:
+# Sami Keijonen <sami.keijonen@foxnet.fi>, 2015
+# Waldemar Razik <w.razik@simplito.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Kuorinka\n"
+"Report-Msgid-Bugs-To: https://foxnet-themes.fi/contact/\n"
+"POT-Creation-Date: 2015-09-21 07:30:18+00:00\n"
+"PO-Revision-Date: 2015-09-21 10:36+0300\n"
+"Last-Translator: Sami Keijonen <sami.keijonen@foxnet.fi>\n"
+"Language-Team: Polish (Poland) (http://www.transifex.com/wp-translations/kuorinka/language/pl_PL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Strona o podanym adresie nie została odnaleziona."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Wygląda na to, że pod tym adresem niczego nie znaleziono. Może spróbuj skorzystać z odnośników poniżej lub nowego wyszukiwania?"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Najczęściej wykorzystywane kategorie"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Spróbuj przeszukać miesięczne archiwa. %1$s"
+
+#: comment.php:15
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz oczekuje na zatwierdzenie."
+
+#: comments.php:35 comments.php:54
+msgid "Comment navigation"
+msgstr "Nawigacja w komentarzach"
+
+#: comments.php:36 comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Starsze Komentarze"
+
+#: comments.php:37 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Nowsze Komentarze &rarr;"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Komentowanie jest wyłączone."
+
+#: content-aside.php:25 content-audio.php:28 content-gallery.php:28 content-image.php:28 content-link.php:40 content-quote.php:28 content-status.php:26 content-video.php:28 content.php:28
+msgid "Posted in %s"
+msgstr "Opublikowane w %s"
+
+#: content-aside.php:26 content-audio.php:29 content-gallery.php:29 content-image.php:29 content-link.php:41 content-quote.php:29 content-status.php:27 content-video.php:29 content.php:29
+msgid "Tagged %s"
+msgstr "Otagowane %s"
+
+#: content-audio.php:21 content-gallery.php:21 content-gallery.php:48 content-image.php:21 content-image.php:46 content-page.php:19 content-quote.php:21 content-quote.php:44 content-video.php:21 content.php:21 image.php:37
+msgid "Pages:"
+msgstr "Strony:"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nic nie znaleziono"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Czy już chcesz opublikować swój pierwszy wpis? <a href=\"%1$s\">Zacznij tutaj</a>."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Przepraszamy, ale nie znaleziono wpisów pasujących do Twoich kryteriów wyszukiwania. Proszę spróbować ponownie, korzystając z innych słów kluczowych."
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Wygląda na to, że nie możemy znaleźć tego, czego szukasz. Istnieje jednak szansa, że dalsze wyszukiwanie pomoże."
+
+#: footer.php:20
+msgid "Footer Content"
+msgstr "Treść w stopce"
+
+#: footer.php:32
+msgid "http://wordpress.org/"
+msgstr "http://pl.wordpress.org/"
+
+#: footer.php:32
+msgid "Proudly powered by %s"
+msgstr "Strona wspierana przez %s"
+
+#: footer.php:34
+msgid "Theme %1$s by %2$s"
+msgstr "Motyw %1$s autorstwa %2$s"
+
+#: functions.php:59 menu-primary.php:6
+msgid "Primary Menu"
+msgstr "Menu główne"
+
+#: functions.php:60 menu-social.php:4
+msgid "Social Menu"
+msgstr "Menu sieci społecznościowych"
+
+#: functions.php:64 menu-portfolio.php:2
+msgid "Portfolio Menu"
+msgstr "Menu dla Portfolio"
+
+#: functions.php:69 menu-team-member.php:2
+msgid "Team Member Menu"
+msgstr "Menu dla członków zespołu"
+
+#: functions.php:140
+msgid "The main sidebar. It is displayed on right side of the page."
+msgstr "Panel główny. Jest wyświetlany obok treści podstawowej."
+
+#: functions.php:150
+msgid "Header sidebar. It is displayed on top of the page."
+msgstr "Panel nagłówkowy. Jest wyświetlany na górze strony."
+
+#: functions.php:160
+msgid "A sidebar located in the footer of the site."
+msgstr "Panel umieszczony w stopce strony."
+
+#: functions.php:170
+msgid "A sidebar located in the Front Page Template."
+msgstr "Panel umieszczony w szablonie strony głównej."
+
+#: functions.php:265
+msgid "Expand child menu"
+msgstr "rozwiń menu potomne"
+
+#: functions.php:266
+msgid "Collapse child menu"
+msgstr "zwiń menu potomne"
+
+#. Translators: The %s is the post title shown to screen readers.
+#: functions.php:318
+msgid "Read more %s"
+msgstr "Czytaj dalej %s"
+
+#: functions.php:514
+msgid "Visit Project"
+msgstr "Przejdź do witryny"
+
+#: functions.php:546
+msgid "1 Column"
+msgstr "1 kolumna"
+
+#: functions.php:547
+msgid "2 Columns: Content / Sidebar"
+msgstr "2 kolumny: Treść / Panel boczny"
+
+#: functions.php:548
+msgid "2 Columns: Sidebar / Content"
+msgstr "2 Kolumny: Panel boczny / Treść"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Skocz do"
+
+#: header.php:76
+msgid "Breadcrumbs"
+msgstr "Historia odwiedzanych stron"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: inc/archive-filters.php:40 inc/breadcrumb-trail.php:250
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Wyniki wyszukiwania dla zapytania &#8222;%s&#8221;"
+
+#: inc/breadcrumb-trail.php:244
+msgid "Browse:"
+msgstr "Przeglądaj"
+
+#: inc/breadcrumb-trail.php:246
+msgid "Home"
+msgstr "Strona główna"
+
+#: inc/breadcrumb-trail.php:247
+msgid "404 Not Found"
+msgstr "404 - nie znaleziono"
+
+#: inc/breadcrumb-trail.php:248
+msgid "Archives"
+msgstr "Archiwa"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumb-trail.php:252 inc/extras.php:60
+msgid "Page %s"
+msgstr "Strona %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumb-trail.php:254
+msgid "Minute %s"
+msgstr "Minuta %s"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumb-trail.php:256
+msgid "Week %s"
+msgstr "Tydzień %s"
+
+#: inc/layouts/functions-customize.php:59 inc/layouts/meta-box-post-layout.php:35
+msgid "Layout"
+msgstr "Układ"
+
+#: inc/layouts/functions-customize.php:82
+msgid "Global Layout"
+msgstr "Układ ogólny"
+
+#: inc/template-tags.php:24
+msgid "Post navigation"
+msgstr "Nawigacja po wpisach"
+
+#: index.php:46 search.php:33
+msgid "Previous page"
+msgstr "Poprzednia strona"
+
+#: index.php:47 search.php:34
+msgid "Next page"
+msgstr "Następna strona"
+
+#: index.php:48 search.php:35
+msgid "Page"
+msgstr "Strona"
+
+#. Translators: "All" is a link that points to the portfolio archive.
+#. Translators: "All" is a link that points to the team-member archive.
+#: menu-portfolio.php:28 menu-team-member.php:28
+msgid "All"
+msgstr "Wszystkie"
+
+#: menu-primary.php:3
+msgid "Menu"
+msgstr "Menu"
+
+#: pages/front-page.php:68
+msgid "Sticky posts"
+msgstr "Przyklejone wpisy"
+
+#: pages/front-page.php:131
+msgid "Posts"
+msgstr "Wpisy"
+
+#. Theme Name of the plugin/theme
+msgid "Kuorinka"
+msgstr "Kuorinka"
+
+#. Theme URI of the plugin/theme
+msgid "https://foxland.fi/downloads/kuorinka"
+msgstr "https://foxland.fi/downloads/kuorinka"
+
+#. Description of the plugin/theme
+msgid "Kuorinka is an accessible, translation-ready theme. It supports right-to-left languages, Schema.org microdata, and all of WordPress’ built-in theme features. It's also child theme friendly."
+msgstr "Kuorinka to motyw dostosowany do potrzeb niepełnosprawnych, gotowy do tłumaczenia. Wspiera języki pisane od prawej do lewej, mikrodane Schema.org oraz wszystkie wbudowane cechy motywów Wordpress'a. Jest przystosowany do tworzenia motywów pochodnych."
+
+#. Author of the plugin/theme
+msgid "Sami Keijonen"
+msgstr "Sami Keijonen"
+
+#. Author URI of the plugin/theme
+msgid "https://foxland.fi"
+msgstr "https://foxland.fi"
+
+#. Template Name of the plugin/theme
+msgid "Front Page"
+msgstr "Strona główna"
+
+#: comment.php:7
+msgctxt "%1%s is for comment date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Pewna myśl na temat &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s przemyśleń na temat &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s przemyśleń na temat &ldquo;%2$s&rdquo;"
+
+#: footer.php:33
+msgctxt "Separator in site info."
+msgid "&middot;"
+msgstr "&middot;"
+
+#: functions.php:139
+msgctxt "sidebar"
+msgid "Primary"
+msgstr "Panel główny"
+
+#: functions.php:149
+msgctxt "sidebar"
+msgid "Header"
+msgstr "Nagłówek"
+
+#: functions.php:159
+msgctxt "sidebar"
+msgid "Subsidiary"
+msgstr "Stopka"
+
+#: functions.php:169
+msgctxt "sidebar"
+msgid "Front Page"
+msgstr "Strona główna"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Source Sans Pro, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:197
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "włącz"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Roboto Condensed, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:203
+msgctxt "Roboto Condensed font: on or off"
+msgid "on"
+msgstr "włącz"
+
+#: header.php:76
+msgctxt "Separator in breadcrumb trail."
+msgid "&#8764;"
+msgstr "&#8764;"
+
+#: inc/breadcrumb-trail.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Historia odwiedzanych stron"
+
+#: inc/breadcrumb-trail.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "H:i"
+
+#: inc/breadcrumb-trail.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/breadcrumb-trail.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/breadcrumb-trail.php:758 inc/breadcrumb-trail.php:787 inc/breadcrumb-trail.php:814 inc/breadcrumb-trail.php:841 inc/breadcrumb-trail.php:1176
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/breadcrumb-trail.php:759 inc/breadcrumb-trail.php:815 inc/breadcrumb-trail.php:1180
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/breadcrumb-trail.php:760 inc/breadcrumb-trail.php:1184
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/breadcrumb-trail.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#. Translators: Default theme layout option.
+#: inc/layouts/functions-layouts.php:51
+msgctxt "theme layout"
+msgid "Default"
+msgstr "Domyślny"
+
+#: inc/template-tags.php:27
+msgctxt "Previous post link"
+msgid "%title"
+msgstr "%title"
+
+#: inc/template-tags.php:28
+msgctxt "Next post link"
+msgid "%title"
+msgstr "%title"
+
+#: inc/template-tags.php:44
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Opublikowano"
+
+#: inc/template-tags.php:52
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Autor"
+
+#. Translators: Separates tags, categories, etc. when displaying a post.
+#: inc/template-tags.php:120
+msgctxt "taxonomy terms separator"
+msgid ", "
+msgstr ", "
+
+#: sidebar-front-page.php:4
+msgctxt "Sidebar aria label"
+msgid "Front Page Sidebar"
+msgstr "Panel boczny na stronie głównej"
+
+#: sidebar-header.php:4
+msgctxt "Sidebar aria label"
+msgid "Header Sidebar"
+msgstr "Panel nagłówkowy"
+
+#: sidebar-primary.php:4
+msgctxt "Sidebar aria label"
+msgid "Primary Sidebar"
+msgstr "Główny panel boczny"
+
+#: sidebar-subsidiary.php:4
+msgctxt "Sidebar aria label"
+msgid "Subsidiary Sidebar"
+msgstr "Uzupełniający panel boczny"
